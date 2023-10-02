@@ -6,12 +6,12 @@ A player uses a penalty against a keeper and the ball is aimed randomly every ti
 
 ## This project contains
 
--Variable
--Mathematical Expression(Calculating the possibility)
--Strings(Text)
--Boolean Expression(
--Conditional
--Nested Conditional
--Iteration
--Data abstraction
+- Variable
+- Mathematical Expression(Calculating the possibility)
+- Strings(Text)
+- Boolean Expression(
+- Conditional
+- Nested Conditional
+- Iteration
+- Data abstraction
 
